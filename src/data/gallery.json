@@ -103,31 +103,55 @@
               "photographer": "Borhom"
             },
             {
-              "id": 3,
+              "id": 2,
               "url": "https://i.postimg.cc/2SLsdCHr/530372051-1084715323768146-7719428216146402561-n.jpg",
               "caption": "Fakhr and Yousef without Sonic.",
               "photographer": "Borhom"
             },
             {
-              "id": 6,
-              "url": "https://i.postimg.cc/VvHhMhnJ/530356613-1084716823767996-5130460779953601450-n.jpg",
-              "caption": "Borhom and Fakhr and Yousef without Sonic.",
+              "id": 3,
+              "url": "https://i.postimg.cc/3wYhTpkp/530811234-1084117207161291-1454203972600648397-n.jpg",
+              "caption": "Team photo🥰",
               "photographer": "Borhom"
             },
             {
-              "id": 7,
+              "id": 4,
+              "url": "https://i.postimg.cc/c1QVs6NB/Whats-App-Image-2025-09-13-at-17-33-16-6ae417c4.jpg",
+              "caption": "",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 5,
               "url": "https://i.postimg.cc/Vs7p3Jpz/530239864-1084717443767934-689148866825110997-n.jpg",
               "caption": "Fakhr and Borhom and Yousef without Sonic.",
               "photographer": "Borhom"
             },
             {
-              "id": 4,
+              "id": 6,
+              "url": "https://i.postimg.cc/HsdFjHYD/Whats-App-Image-2025-09-13-at-17-33-16-1faf9edf.jpg",
+              "caption": "استراحه محارب",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 7,
               "url": "https://i.postimg.cc/gkjFJV8w/530350925-1084715027101509-8988428665670934902-n.jpg",
               "caption": "Sonic alone.",
               "photographer": "Borhom"
             },
             {
-              "id": 5,
+              "id": 8,
+              "url": "https://i.postimg.cc/KjrVQp5H/Whats-App-Image-2025-09-13-at-17-33-15-fa205aae.jpg",
+              "caption": "ECPC men",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 9,
+              "url": "https://i.postimg.cc/HnLKrmcG/530242013-1084716477101364-6510085223892561269-n.jpg",
+              "caption": "Before ECPC 2025 Finals",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 10,
               "url": "https://i.postimg.cc/YqPcmvzd/532009577-1084715287101483-1641746805599220695-n.jpg",
               "caption": "Rejected team play football with Baliegh without Sonic.",
               "photographer": "Borhom"
@@ -209,56 +233,6 @@
               "id": 10,
               "url": "https://i.postimg.cc/kG6HNmCk/482244602-967499368823076-1027738762207226688-n.jpg",
               "caption": "☝️",
-              "photographer": "Borhom"
-            }
-          ]
-        },
-        {
-          "id": 3,
-          "title": "Weekly Training Session",
-          "date": "October 5, 2024",
-          "location": "USC Campus - Lab 201",
-          "category": "Training",
-          "description": "Intensive dynamic programming training with hands-on problem solving.",
-          "coverImage": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/530342483_1084117267161285_7349495380064074954_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=W38I1VgwyEwQ7kNvwEGslpD&_nc_oc=AdkrsYagmiD0kMh-phNoWjznIlPngcmDbtPC674qdNDsVXHw_DTcJVhd9c9OAhlI_Zs&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=qflZoUs86E1cFaY-AoCUJA&oh=00_AfYQgewbBA2d3hXC7W_b8BVPS70VY17ad5MoJ4eX0DE7AA&oe=68C18CC0",
-          "participants": 25,
-          "photoCount": 12,
-          "photos": [
-            {
-              "id": 9,
-              "url": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/530342483_1084117267161285_7349495380064074954_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=W38I1VgwyEwQ7kNvwEGslpD&_nc_oc=AdkrsYagmiD0kMh-phNoWjznIlPngcmDbtPC674qdNDsVXHw_DTcJVhd9c9OAhlI_Zs&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=qflZoUs86E1cFaY-AoCUJA&oh=00_AfYQgewbBA2d3hXC7W_b8BVPS70VY17ad5MoJ4eX0DE7AA&oe=68C18CC0",
-              "caption": "Students working on DP problems",
-              "photographer": "Borhom Ahmed Farouk"
-            },
-            {
-              "id": 10,
-              "url": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800",
-              "caption": "Whiteboard explanation session",
-              "photographer": "Borhom"
-            }
-          ]
-        },
-        {
-          "id": 4,
-          "title": "Team Building Event",
-          "date": "August 28, 2024",
-          "location": "USC Campus - Outdoor Area",
-          "category": "Social",
-          "description": "Community gathering to welcome new members and build team spirit.",
-          "coverImage": "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/530299941_1083849773854701_3266566690249740534_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fJXAMosfKWwQ7kNvwHjyoHv&_nc_oc=AdkEsboMk8ek9TOiGHyd_GOKkSTw3_CfeH0RzBdzSOpGVU9Ni_hN5D9JG-bs7thscYU&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=m_GW_ssxL47B7bsKPnJUCA&oh=00_Afa1X61ht4KZtvnP9ZdDqLImemlXC3BaRm156-VFQGpQVg&oe=68C19428",
-          "participants": 60,
-          "photoCount": 35,
-          "photos": [
-            {
-              "id": 11,
-              "url": "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/530299941_1083849773854701_3266566690249740534_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fJXAMosfKWwQ7kNvwHjyoHv&_nc_oc=AdkEsboMk8ek9TOiGHyd_GOKkSTw3_CfeH0RzBdzSOpGVU9Ni_hN5D9JG-bs7thscYU&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=m_GW_ssxL47B7bsKPnJUCA&oh=00_Afa1X61ht4KZtvnP9ZdDqLImemlXC3BaRm156-VFQGpQVg&oe=68C19428",
-              "caption": "Welcome ceremony for new members",
-              "photographer": "Borhom"
-            },
-            {
-              "id": 12,
-              "url": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=800",
-              "caption": "Team building activities",
               "photographer": "Borhom"
             }
           ]

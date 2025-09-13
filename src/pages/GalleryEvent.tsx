@@ -97,7 +97,6 @@ export function GalleryEvent({ season, eventId, onBack }: GalleryEventProps) {
         {/* Header */}
         <div className="mb-8">
           <button
-            onClick={() => navigate('/gallery')}
             className="inline-flex items-center text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 mb-6 transition-colors duration-200"
             onClick={() => {
               window.scrollTo({ top: 0, behavior: 'smooth' });

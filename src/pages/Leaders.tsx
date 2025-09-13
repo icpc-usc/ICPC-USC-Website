@@ -31,9 +31,9 @@ export function Leaders() {
 
   const getRatingColor = (rating?: number) => {
     if (!rating) return 'text-gray-500';
-    if (rating >= 1900) return 'text-red-600';
-    if (rating >= 1600) return 'text-purple-600';
-    if (rating >= 1400) return 'text-blue-600';
+    if (rating >= 1900) return 'text-orange-600';
+    if (rating >= 1600) return 'text-blue-600';
+    if (rating >= 1400) return 'text-cyan-600';
     if (rating >= 1200) return 'text-green-600';
     return 'text-gray-600';
   };
