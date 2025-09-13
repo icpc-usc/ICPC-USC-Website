@@ -134,6 +134,85 @@
             }
           ]
         },
+         {
+          "id": 5,
+          "title": "Offline Contest",
+          "date": "December 13, 2024",
+          "location": "USC Campus - Lab 201",
+          "category": "Training",
+          "description": "Offline individual contest to practice for ECPC and ACPC.",
+          "coverImage": "https://i.postimg.cc/SKdHkdVt/481671393-967499425489737-5830466928544621157-n.jpg",
+          "participants": 60,
+          "photoCount": 12,
+          "photos": [
+            {
+              "id": 1,
+              "url": "https://i.postimg.cc/x8w4t4Tq/481781953-967499158823097-49195471276756604-n.jpg",
+              "caption": "no caption",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 2,
+              "url": "https://i.postimg.cc/SKdHkdVt/481671393-967499425489737-5830466928544621157-n.jpg",
+              "caption": "TLE test 200",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 3,
+              "url": "https://i.postimg.cc/3rq5kLhs/481448040-967500068823006-1926549227602692415-n.jpg",
+              "caption": "first AC problem C",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 3,
+              "url": "https://i.postimg.cc/VLbynjLd/481480900-967500215489658-4071428630215109759-n.jpg",
+              "caption": "first AC problem E",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 4,
+              "url": "https://i.postimg.cc/tJYKr63v/481710267-967500102156336-409059132725110643-n.jpg",
+              "caption": "first AC problems B, F, H",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 5,
+              "url": "https://i.postimg.cc/9Q36prr1/482324559-967500055489674-6726055708367545872-n.jpg",
+              "caption": "first AC problem A, B",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 6,
+              "url": "https://i.postimg.cc/cC2VPJTx/482301560-967499992156347-4981639546894242344-n.jpg",
+              "caption": "first AC problem L",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 7,
+              "url": "https://i.postimg.cc/TwPFwb42/482076516-967499265489753-5744343956132673022-n.jpg",
+              "caption": "Borhom Gift",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 8,
+              "url": "https://i.postimg.cc/s2sbkqPh/482275039-967499205489759-8530079566865222557-n.jpg",
+              "caption": "Sonic Gift",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 9,
+              "url": "https://i.postimg.cc/Jzb9dMX8/481780025-967499302156416-8458567652921290355-n.jpg",
+              "caption": "Yousef Gift",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 10,
+              "url": "https://i.postimg.cc/kG6HNmCk/482244602-967499368823076-1027738762207226688-n.jpg",
+              "caption": "☝️",
+              "photographer": "Borhom"
+            }
+          ]
+        },
         {
           "id": 3,
           "title": "Weekly Training Session",
