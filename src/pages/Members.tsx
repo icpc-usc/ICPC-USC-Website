@@ -16,8 +16,8 @@ export function Members() {
   const getRatingColor = (rating?: number) => {
     if (!rating) return 'text-gray-500';
     if (rating >= 1900) return 'text-red-600';
-    if (rating >= 1600) return 'text-purple-600';
-    if (rating >= 1400) return 'text-blue-600';
+    if (rating >= 1600) return 'text-blue-600';
+    if (rating >= 1400) return 'text-cyan-600';
     if (rating >= 1200) return 'text-green-600';
     return 'text-gray-600';
   };
@@ -139,7 +139,14 @@ export function Members() {
                     <h3 className="text-lg font-bold">{member.name}</h3>
                     <div className="flex items-center space-x-2">
                       <span className="text-gray-600 dark:text-gray-400">@{member.handle}</span>
-                      <ExternalLink className="w-4 h-4 text-gray-400 hover:text-blue-600 cursor-pointer" />
+                      <a
+                        href={`https://codeforces.com/profile/${member.handle}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        
+                      >
+                        <ExternalLink className="w-4 h-4 text-gray-400 hover:text-blue-600 cursor-pointer" />
+                      </a>
                     </div>
                   </div>
                 </div>
