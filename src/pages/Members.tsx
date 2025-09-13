@@ -138,7 +138,7 @@ export function Members() {
                   <div>
                     <h3 className="text-lg font-bold">{member.name}</h3>
                     <div className="flex items-center space-x-2">
-                      <span className="text-gray-600 dark:text-gray-400">@{member.handle}</span>
+                      <span className="text-gray-600 dark:text-gray-400">{member.handle}</span>
                       <a
                         href={`https://codeforces.com/profile/${member.handle}`}
                         target="_blank"
