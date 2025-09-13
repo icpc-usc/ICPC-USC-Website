@@ -1,0 +1,221 @@
+{
+  "seasons": [
+    {
+      "season": "Season 4",
+      "year": "2024-2025",
+      "description": "Current season with record participation and achievements",
+      "isActive": true,
+      "events": [
+        {
+          "id": 1,
+          "title": "ACPC 2024 Participation",
+          "date": "November 15, 2024",
+          "location": "Luxor, Egypt",
+          "category": "ACPC",
+          "description": "USC teams representing Egypt at the Arab Collegiate Programming Contest.",
+          "coverImage": "https://i.postimg.cc/Zn1Xy3Fp/480791853-1305084777413476-8961139038293694245-n.jpg",
+          "participants": 15,
+          "photoCount": 24,
+          "photos": [
+            {
+              "id": 1,
+              "url": "https://i.postimg.cc/Zn1Xy3Fp/480791853-1305084777413476-8961139038293694245-n.jpg",
+              "caption": "Our team with Mahmoud Ayman at ACPC 2024",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 2,
+              "url": "https://i.postimg.cc/tJKWQCp9/481057325-1305084774080143-7497068622380903624-n.jpg",
+              "caption": "Team strategizing before the contest",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 3,
+              "url": "https://i.postimg.cc/4xbtqgMT/480748768-1305084810746806-4871433940350497703-n.jpg",
+              "caption": "Our team with Eljoker at ACPC 2024",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 4,
+              "url": "https://i.postimg.cc/d0mSn3GP/480783931-1305084907413463-7454192487729885975-n.jpg",
+              "caption": "Official team photo during the contest",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 10,
+              "url": "https://i.postimg.cc/mD1Xpyzx/Whats-App-Image-2025-09-04-at-20-59-46-ed95273c.jpg",
+              "caption": "Team opening VSC",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 5,
+              "url": "https://i.postimg.cc/bwn5D3Jv/480530146-1305084840746803-1516978945635202602-n.jpg",
+              "caption": "no caption",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 6,
+              "url": "https://i.postimg.cc/KzPwf539/Whats-App-Image-2025-09-07-at-12-51-41-349c6154.jpg",
+              "caption": "ACPC gifts and souvenirs",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 7,
+              "url": "https://i.postimg.cc/J44v3Zrq/Whats-App-Image-2025-09-07-at-12-49-29-b472ed5f.jpg",
+              "caption": "Our team at the Luxor Temple",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 11,
+              "url": "https://i.postimg.cc/g2MgYT3F/Whats-App-Image-2025-09-07-at-12-50-38-f84ac8b4.jpg",
+              "caption": "Borhom solve alone, yousef and sonic on the bathroom.",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 8,
+              "url": "https://i.postimg.cc/K81Wwbg3/Whats-App-Image-2025-09-07-at-12-48-24-54df94ac.jpg",
+              "caption": "Our sponsor😍",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 9,
+              "url": "https://i.postimg.cc/QNqvW03C/Whats-App-Image-2025-09-07-at-12-47-17-5374c99b.jpg",
+              "caption": "Borhom and Yousef without Sonic",
+              "photographer": "Borhom"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "ECPC 2025 Finals",
+          "date": "July 20, 2025",
+          "location": "AASTMT Alex, Egypt",
+          "category": "ECPC",
+          "description": "Our teams competing at the Arab and Egypt Programming Contest regional finals.",
+          "coverImage": "https://i.postimg.cc/HnLKrmcG/530242013-1084716477101364-6510085223892561269-n.jpg",
+          "participants": 9,
+          "photoCount": 18,
+          "photos": [
+            {
+              "id": 1,
+              "url": "https://i.postimg.cc/VvHhMhnJ/530356613-1084716823767996-5130460779953601450-n.jpg",
+              "caption": "Borhom and Yousef are walking without Sonic.",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 3,
+              "url": "https://i.postimg.cc/2SLsdCHr/530372051-1084715323768146-7719428216146402561-n.jpg",
+              "caption": "Fakhr and Yousef without Sonic.",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 6,
+              "url": "https://i.postimg.cc/VvHhMhnJ/530356613-1084716823767996-5130460779953601450-n.jpg",
+              "caption": "Borhom and Fakhr and Yousef without Sonic.",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 7,
+              "url": "https://i.postimg.cc/Vs7p3Jpz/530239864-1084717443767934-689148866825110997-n.jpg",
+              "caption": "Fakhr and Borhom and Yousef without Sonic.",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 4,
+              "url": "https://i.postimg.cc/gkjFJV8w/530350925-1084715027101509-8988428665670934902-n.jpg",
+              "caption": "Sonic alone.",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 5,
+              "url": "https://i.postimg.cc/YqPcmvzd/532009577-1084715287101483-1641746805599220695-n.jpg",
+              "caption": "Rejected team play football with Baliegh without Sonic.",
+              "photographer": "Borhom"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Weekly Training Session",
+          "date": "October 5, 2024",
+          "location": "USC Campus - Lab 201",
+          "category": "Training",
+          "description": "Intensive dynamic programming training with hands-on problem solving.",
+          "coverImage": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/530342483_1084117267161285_7349495380064074954_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=W38I1VgwyEwQ7kNvwEGslpD&_nc_oc=AdkrsYagmiD0kMh-phNoWjznIlPngcmDbtPC674qdNDsVXHw_DTcJVhd9c9OAhlI_Zs&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=qflZoUs86E1cFaY-AoCUJA&oh=00_AfYQgewbBA2d3hXC7W_b8BVPS70VY17ad5MoJ4eX0DE7AA&oe=68C18CC0",
+          "participants": 25,
+          "photoCount": 12,
+          "photos": [
+            {
+              "id": 9,
+              "url": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/530342483_1084117267161285_7349495380064074954_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_ohc=W38I1VgwyEwQ7kNvwEGslpD&_nc_oc=AdkrsYagmiD0kMh-phNoWjznIlPngcmDbtPC674qdNDsVXHw_DTcJVhd9c9OAhlI_Zs&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=qflZoUs86E1cFaY-AoCUJA&oh=00_AfYQgewbBA2d3hXC7W_b8BVPS70VY17ad5MoJ4eX0DE7AA&oe=68C18CC0",
+              "caption": "Students working on DP problems",
+              "photographer": "Borhom Ahmed Farouk"
+            },
+            {
+              "id": 10,
+              "url": "https://images.pexels.com/photos/1181263/pexels-photo-1181263.jpeg?auto=compress&cs=tinysrgb&w=800",
+              "caption": "Whiteboard explanation session",
+              "photographer": "Borhom"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Team Building Event",
+          "date": "August 28, 2024",
+          "location": "USC Campus - Outdoor Area",
+          "category": "Social",
+          "description": "Community gathering to welcome new members and build team spirit.",
+          "coverImage": "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/530299941_1083849773854701_3266566690249740534_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fJXAMosfKWwQ7kNvwHjyoHv&_nc_oc=AdkEsboMk8ek9TOiGHyd_GOKkSTw3_CfeH0RzBdzSOpGVU9Ni_hN5D9JG-bs7thscYU&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=m_GW_ssxL47B7bsKPnJUCA&oh=00_Afa1X61ht4KZtvnP9ZdDqLImemlXC3BaRm156-VFQGpQVg&oe=68C19428",
+          "participants": 60,
+          "photoCount": 35,
+          "photos": [
+            {
+              "id": 11,
+              "url": "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/530299941_1083849773854701_3266566690249740534_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fJXAMosfKWwQ7kNvwHjyoHv&_nc_oc=AdkEsboMk8ek9TOiGHyd_GOKkSTw3_CfeH0RzBdzSOpGVU9Ni_hN5D9JG-bs7thscYU&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=m_GW_ssxL47B7bsKPnJUCA&oh=00_Afa1X61ht4KZtvnP9ZdDqLImemlXC3BaRm156-VFQGpQVg&oe=68C19428",
+              "caption": "Welcome ceremony for new members",
+              "photographer": "Borhom"
+            },
+            {
+              "id": 12,
+              "url": "https://images.pexels.com/photos/1181298/pexels-photo-1181298.jpeg?auto=compress&cs=tinysrgb&w=800",
+              "caption": "Team building activities",
+              "photographer": "Borhom"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season": "Season 3",
+      "year": "2023-2024",
+      "description": "Previous season with focus on growth and competition",
+      "events": [
+        {
+          "id": 5,
+          "title": "ECPC 2023 Victory Celebration",
+          "date": "November 30, 2023",
+          "location": "USC Campus",
+          "category": "ECPC",
+          "description": "Celebrating our teams' outstanding performance at ECPC 2023.",
+          "coverImage": "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/530299941_1083849773854701_3266566690249740534_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_ohc=fJXAMosfKWwQ7kNvwHjyoHv&_nc_oc=AdkEsboMk8ek9TOiGHyd_GOKkSTw3_CfeH0RzBdzSOpGVU9Ni_hN5D9JG-bs7thscYU&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=m_GW_ssxL47B7bsKPnJUCA&oh=00_Afa1X61ht4KZtvnP9ZdDqLImemlXC3BaRm156-VFQGpQVg&oe=68C19428",
+          "participants": 35,
+          "photoCount": 28,
+          "photos": []
+        },
+        {
+          "id": 6,
+          "title": "Algorithm Workshop",
+          "date": "September 12, 2023",
+          "location": "USC Campus - Main Hall",
+          "category": "Training",
+          "description": "Graph algorithms masterclass with industry experts.",
+          "coverImage": "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/531879924_1083849737188038_2773757929443552035_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hc6yI0T9KFcQ7kNvwHZLRDN&_nc_oc=AdkPHYsIugifLPmU0QrCB2zZ-qCbYDc-RrHD2zz8ErzZPjNj5AgQMPZ4KpzMDYh7G8A&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=a4goYuiVjInqVaHE5AdvXA&oh=00_AfYAS8m51WCIc_asNZ8iM84v0Rd7Uc2v41PajrnhbxyhLw&oe=68C19EAE",
+          "participants": 40,
+          "photoCount": 15,
+          "photos": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "hero": {
+    "backgroundImage": "https://scontent.fcai19-11.fna.fbcdn.net/v/t39.30808-6/476160658_948600944046252_7656318203060718113_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3ptdYO0-V6kQ7kNvwGgFjqq&_nc_oc=AdnLWJqvsO7BSd1LKPJpC2W0qQbBjVEKUUgfGKcBXTic2AA4Ws1tMeENBYjLrpkFk7k&_nc_zt=23&_nc_ht=scontent.fcai19-11.fna&_nc_gid=yOtTZGZpxlbpVdZS-vtLxA&oh=00_AfZTyttq6hu54ZFqK4o3r2PUnyDUB4Vad_xxh2-Ckj00sg&oe=68C16E7A",
+    "logo": "https://res.cloudinary.com/dcatuev0j/image/upload/v1757132444/logo_white_copy_1___x2kjra.png",
+    "description": "Empowering students at University of Sadat City through algorithmic excellence, competitive programming mastery, and collaborative learning."
+  },
+  "achievements": [
+    {
+      "title": "ECPC 2024",
+      "description": "5 teams qualified",
+      "icon": "Trophy"
+    },
+    {
+      "title": "Active Members",
+      "description": "Growing community",
+      "icon": "Users"
+    },
+    {
+      "title": "Training Sessions",
+      "description": "Regular sessions",
+      "icon": "Calendar"
+    },
+    {
+      "title": "Top Ratings",
+      "description": "Expert level members",
+      "icon": "Star"
+    }
+  ],
+  "galleryHighlights": [
+    "https://scontent.fcai19-11.fna.fbcdn.net/v/t39.30808-6/528133896_1078611737711838_5459885181579805613_n.jpg?stp=dst-jpg_s600x600_tt6&_nc_cat=110&ccb=1-7&_nc_sid=833d8c&_nc_ohc=NkmnOHix4lUQ7kNvwHgLrbC&_nc_oc=Adl_lEMVqNu4p9gJy_khYjCTq7el_JoBUSxvLjJ7aXN6Sl9a2541AAmuOr4-Kz5VWnk&_nc_zt=23&_nc_ht=scontent.fcai19-11.fna&_nc_gid=AeKksAluUrqBuwdBPK5Qmg&oh=00_AfZ-oXVvzZB1jhH_dCxqEglZlyPeTtdGi6xXpsr_APHi5A&oe=68C19AB7",
+    "https://scontent.fcai19-7.fna.fbcdn.net/v/t39.30808-6/527595421_1078610961045249_4910839126090551046_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=833d8c&_nc_ohc=y67ythqNmJQQ7kNvwHZqmR9&_nc_oc=AdljWTigb8nnyQGTVyjNve3PCbG_W1rtBvQeEXL_lwJ4hGe7DVyopthW1E36Q8DOQ5g&_nc_zt=23&_nc_ht=scontent.fcai19-7.fna&_nc_gid=b8C6xdpyFMrQpXgmjArCPA&oh=00_Afb7EEAfadztBu30gURdJkowNaN6NBmtrDOg0C7d4VwJaw&oe=68C17CC5",
+    "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/482244602_967499368823076_1027738762207226688_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_ohc=d7jJ9wakxbkQ7kNvwEz2yhj&_nc_oc=Adkvwz0BpcUD1sSRNY1rvoONJQLYdlIroQkTz4teDFE3VwZxyDqo99C5GQVywkjpx4k&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=SLRIV5-1aL1DMn6bjU46Iw&oh=00_AfZqCXGTjXIjhRgXdxFQPBqrvmKHInjzMIq0l34YIbRmPA&oe=68C18599",
+    "https://scontent.fcai19-4.fna.fbcdn.net/v/t39.30808-6/481671393_967499425489737_5830466928544621157_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_ohc=cE7g75b_ErQQ7kNvwE5umh0&_nc_oc=AdlipuuXBvadYbivtF0DX3dGVjfyKkpJr76G0rNQzP_JCO1kt-l0PItb727Kc3F2lHc&_nc_zt=23&_nc_ht=scontent.fcai19-4.fna&_nc_gid=G6XT8XdQdrpaRkip9ZPrKQ&oh=00_AfYPlBuLVF7Iqu3I8Jc6iHTDkhyKm7X4_Iq7NXuXRx408A&oe=68C1973C"
+  ]
+}

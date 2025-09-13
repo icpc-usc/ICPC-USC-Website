@@ -1,0 +1,198 @@
+{
+  "teams": [
+    {
+      "name": "Technical Team",
+      "type": "technical",
+      "description": "Responsible for training programs, contest preparation, and technical guidance",
+      "members": [
+        {
+          "name": "Karim Youssef",
+          "handle": "borhom",
+          "linkedin": "karim-youssef-dev",
+          "github": "karim-youssef",
+          "maxRating": 1650,
+          "role": "Level 1 Instructor"
+        },
+        {
+          "name": "Nour Mahmoud",
+          "handle": "nour_dev",
+          "linkedin": "nour-mahmoud-cs",
+          "github": "nour-mahmoud",
+          "maxRating": 1420,
+          "role": "Problem Setter"
+        },
+        {
+          "name": "Hassan Ali",
+          "handle": "hassan_cp",
+          "linkedin": "hassan-ali-programmer",
+          "github": "hassan-ali",
+          "maxRating": 1580,
+          "role": "Contest Coordinator"
+        },
+        {
+          "name": "Mariam Ahmed",
+          "handle": "mariam_algo",
+          "linkedin": "mariam-ahmed-dev",
+          "github": "mariam-ahmed",
+          "maxRating": 1520,
+          "role": "Training Assistant"
+        },
+        {
+          "name": "Omar Khaled",
+          "handle": "omar_dev",
+          "linkedin": "omar-khaled-programmer",
+          "github": "omar-khaled",
+          "maxRating": 1480,
+          "role": "Mentor"
+        },
+        {
+          "name": "Sara Mohamed",
+          "handle": "sara_cp",
+          "linkedin": "sara-mohamed-cs",
+          "github": "sara-mohamed",
+          "maxRating": 1390,
+          "role": "Code Reviewer"
+        },
+        {
+          "name": "Ahmed Youssef",
+          "handle": "ahmed_prog",
+          "linkedin": "ahmed-youssef-dev",
+          "github": "ahmed-youssef",
+          "maxRating": 1610,
+          "role": "Workshop Leader"
+        },
+        {
+          "name": "Fatma Ali",
+          "handle": "fatma_algo",
+          "linkedin": "fatma-ali-programmer",
+          "github": "fatma-ali",
+          "maxRating": 1350,
+          "role": "Technical Writer"
+        },
+        {
+          "name": "Mohamed Hassan",
+          "handle": "mohamed_cp",
+          "linkedin": "mohamed-hassan-dev",
+          "github": "mohamed-hassan",
+          "maxRating": 1540,
+          "role": "System Administrator"
+        },
+        {
+          "name": "Yasmin Khaled",
+          "handle": "yasmin_dev",
+          "linkedin": "yasmin-khaled-cs",
+          "github": "yasmin-khaled",
+          "maxRating": 1460,
+          "role": "Database Manager"
+        },
+        {
+          "name": "Amr Ahmed",
+          "handle": "amr_prog",
+          "linkedin": "amr-ahmed-programmer",
+          "github": "amr-ahmed",
+          "maxRating": 1580,
+          "role": "Quality Assurance"
+        },
+        {
+          "name": "Nada Mohamed",
+          "handle": "nada_algo",
+          "linkedin": "nada-mohamed-dev",
+          "github": "nada-mohamed",
+          "maxRating": 1420,
+          "role": "Research Assistant"
+        },
+        {
+          "name": "Khaled Hassan",
+          "handle": "khaled_cp",
+          "linkedin": "khaled-hassan-cs",
+          "github": "khaled-hassan",
+          "maxRating": 1650,
+          "role": "Performance Analyst"
+        },
+        {
+          "name": "Aya Ali",
+          "handle": "aya_dev",
+          "linkedin": "aya-ali-programmer",
+          "github": "aya-ali",
+          "maxRating": 1380,
+          "role": "Algorithm Tutor"
+        },
+        {
+          "name": "Mahmoud Ahmed",
+          "handle": "mahmoud_prog",
+          "linkedin": "mahmoud-ahmed-dev",
+          "github": "mahmoud-ahmed",
+          "maxRating": 1590,
+          "role": "Contest Judge"
+        },
+        {
+          "name": "Dina Khaled",
+          "handle": "dina_algo",
+          "linkedin": "dina-khaled-cs",
+          "github": "dina-khaled",
+          "maxRating": 1440,
+          "role": "Technical Support"
+        },
+        {
+          "name": "Youssef Mohamed",
+          "handle": "youssef_cp",
+          "linkedin": "youssef-mohamed-programmer",
+          "github": "youssef-mohamed",
+          "maxRating": 1570,
+          "role": "Platform Developer"
+        },
+        {
+          "name": "Heba Hassan",
+          "handle": "heba_dev",
+          "linkedin": "heba-hassan-dev",
+          "github": "heba-hassan",
+          "maxRating": 1410,
+          "role": "Data Analyst"
+        },
+        {
+          "name": "Tamer Ali",
+          "handle": "tamer_prog",
+          "linkedin": "tamer-ali-cs",
+          "github": "tamer-ali",
+          "maxRating": 1520,
+          "role": "Community Moderator"
+        },
+        {
+          "name": "Mona Elsayed",
+          "handle": "mona_algo",
+          "linkedin": "mona-elsayed-dev",
+          "github": "mona-elsayed",
+          "maxRating": 1390,
+          "role": "Resource Manager"
+        }
+      ]
+    },
+    {
+      "name": "Media Team",
+      "type": "media",
+      "description": "Handles social media, documentation, photography, and community outreach",
+      "members": [
+        {
+          "name": "Yasmin Ahmed",
+          "linkedin": "yasmin-ahmed-media",
+          "role": "Content Creator"
+        },
+        {
+          "name": "Amr Khaled",
+          "linkedin": "amr-khaled-design",
+          "role": "Graphic Designer"
+        },
+        {
+          "name": "Fatma Hassan",
+          "linkedin": "fatma-hassan-content",
+          "role": "Social Media Manager"
+        },
+        {
+          "name": "Mohamed Samir",
+          "linkedin": "mohamed-samir-photo",
+          "role": "Photographer"
+        }
+      ]
+    }
+  ]
+}

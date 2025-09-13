@@ -1,0 +1,60 @@
+{
+  "currentLeaders": [
+    {
+      "name": "Ahmed Mohammed Salah",
+      "role": "Community Leader",
+      "season": "2024-2025",
+      "description": "Leading the ICPC USC community with expertise in algorithms and competitive programming. Guiding students toward excellence in problem-solving.",
+      "achievements": ["10+ years CP coaching", "ICPC World Finals Judge", "ACM Distinguished Educator"],
+      "contact": {
+        "email": "a.farouk@usc.edu.eg",
+        "github": "dr-ahmed-farouk",
+        "cf": "fakhr_basha"
+      }
+    },
+    {
+      "name": "Ahmed Adib",
+      "role": "Community Leader",
+      "season": "2024-2025",
+      "description": "Senior student leading training sessions and mentoring newcomers. Expert level competitive programmer with strong leadership skills.",
+      "achievements": ["ECPC 2024 Finalist", "Expert Rating (1850+)", "Team Captain"],
+      "contact": {
+        "github": "omar_cp",
+        "cf": "syrianooo"
+      }
+    },
+    {
+      "name": "Ibrahim Alghrbawy",
+      "role": "Technical Head",
+      "season": "2024-2025",
+      "description": "Organizing training schedules and coordinating practice sessions. Specialist level programmer with excellent organizational skills.",
+      "achievements": ["Training Program Designer", "Specialist Rating (1450+)", "Best Mentor Award"],
+      "contact": {
+        "github": "sara_algo",
+        "cf": "borhom"
+      }
+    },
+    {
+      "name": "Salma Yasser",
+      "role": "HR",
+      "season": "2024-2025",
+      "description": "Managing internal contests and external competition registrations. Advanced level programmer with contest experience.",
+      "achievements": ["Contest Problem Setter", "ECPC 2024 Participant", "Regional Qualifier"],
+      "contact": {
+        "github": "ahmed_coder",
+        "cf": "ahmed_mohamed"
+      }
+    },
+    {
+      "name": "Fatima Alzahraa",
+      "role": "Media Head",
+      "season": "2024-2025",
+      "description": "Managing internal contests and external competition registrations. Advanced level programmer with contest experience.",
+      "achievements": ["Contest Problem Setter", "ECPC 2024 Participant", "Regional Qualifier"],
+      "contact": {
+        "github": "ahmed_coder",
+        "cf": "ahmed_mohamed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "milestones": [
+    {
+      "year": "2025",
+      "title": "Continued Excellence",
+      "description": "Building on our strong foundation, we continue to grow and excel in competitive programming with new initiatives and expanded training programs.",
+      "achievements": [
+        "85+ active members",
+        "Advanced training curriculum",
+        "Mentorship programs",
+        "Industry partnerships"
+      ],
+      "stats": {
+        "members": 85,
+        "contests": 15,
+        "awards": 8
+      }
+    },
+    {
+      "year": "2024",
+      "title": "Record Breaking Year",
+      "description": "Our most successful year yet, with multiple teams qualifying for ECPC and ACPC, setting new standards for USC competitive programming.",
+      "achievements": [
+        "3 teams qualified for ECPC",
+        "First ACPC participation",
+        "Regional Top 15 finish",
+        "15+ Expert level members"
+      ],
+      "stats": {
+        "members": 75,
+        "contests": 12,
+        "awards": 6
+      }
+    },
+    {
+      "year": "2023",
+      "title": "Major Breakthrough",
+      "description": "A pivotal year where we established ourselves as a serious competitive programming community with structured training and significant achievements.",
+      "achievements": [
+        "First ECPC qualification",
+        "Structured level system",
+        "Weekly training sessions",
+        "Community leadership formed"
+      ],
+      "stats": {
+        "members": 60,
+        "contests": 10,
+        "awards": 4
+      }
+    },
+    {
+      "year": "2022",
+      "title": "Growth & Organization",
+      "description": "Rapid expansion of the community with organized training sessions and the beginning of our competitive journey.",
+      "achievements": [
+        "50+ members joined",
+        "Regular contest participation",
+        "Training program launched",
+        "Faculty advisor appointed"
+      ],
+      "stats": {
+        "members": 50,
+        "contests": 8,
+        "awards": 2
+      }
+    },
+    {
+      "year": "2021",
+      "title": "Foundation Years",
+      "description": "The beginning of our journey. A small group of passionate students came together to form what would become the USC competitive programming community.",
+      "achievements": [
+        "Community established",
+        "First training sessions",
+        "Initial member recruitment",
+        "Basic infrastructure setup"
+      ],
+      "stats": {
+        "members": 25,
+        "contests": 4,
+        "awards": 1
+      }
+    }
+  ],
+  "achievements": [
+    {
+      "title": "ECPC Qualifications",
+      "count": "8 Teams",
+      "description": "Total teams that qualified for Egyptian Collegiate Programming Contest",
+      "icon": "Trophy",
+      "color": "from-yellow-500 to-orange-500"
+    },
+    {
+      "title": "ACPC Participation",
+      "count": "3 Teams",
+      "description": "Teams that represented Egypt at Arab Collegiate Programming Contest",
+      "icon": "Star",
+      "color": "from-purple-500 to-indigo-500"
+    },
+    {
+      "title": "Expert+ Members",
+      "count": "15+",
+      "description": "Members who achieved Expert level rating or higher",
+      "icon": "Target",
+      "color": "from-green-500 to-teal-500"
+    },
+    {
+      "title": "Training Hours",
+      "count": "500+",
+      "description": "Total hours of structured competitive programming training",
+      "icon": "TrendingUp",
+      "color": "from-blue-500 to-cyan-500"
+    }
+  ],
+  "notableMembers": [
+    {
+      "name": "Omar Hassan",
+      "achievement": "Highest Individual Rating",
+      "rating": "1850+ (Expert)",
+      "year": "2024"
+    },
+    {
+      "name": "Youssef Ahmed",
+      "achievement": "Most Contest Participations",
+      "rating": "40+ Contests",
+      "year": "2023-2024"
+    },
+    {
+      "name": "Dr. Ahmed Farouk",
+      "achievement": "Outstanding Faculty Support",
+      "rating": "4 Years Service",
+      "year": "2021-Present"
+    },
+    {
+      "name": "Sara Ali",
+      "achievement": "Best Training Coordinator",
+      "rating": "Program Designer",
+      "year": "2024"
+    }
+  ]
+}

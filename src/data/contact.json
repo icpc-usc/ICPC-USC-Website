@@ -1,0 +1,46 @@
+{
+  "contactInfo": [
+    {
+      "icon": "MapPin",
+      "title": "Location",
+      "details": ["University of Sadat City", "Computer Science Department", "Sadat City, Egypt"],
+      "color": "from-blue-600 to-cyan-600"
+    },
+    {
+      "icon": "Mail",
+      "title": "Email",
+      "details": ["icpc@usc.edu.eg", "cp.community@usc.edu.eg", "admin@icpc-usc.org"],
+      "color": "from-green-600 to-emerald-600"
+    },
+    {
+      "icon": "Github",
+      "title": "GitHub",
+      "details": ["github.com/icpc-usc", "Organization Repository", "Open Source Projects"],
+      "color": "from-gray-600 to-gray-800"
+    },
+    {
+      "icon": "Globe",
+      "title": "Social Media",
+      "details": ["@ICPC_USC", "Facebook Community", "Discord Server"],
+      "color": "from-purple-600 to-indigo-600"
+    }
+  ],
+  "faq": [
+    {
+      "question": "How can I join the ICPC USC Community?",
+      "answer": "Students from USC can join by attending our weekly training sessions or contacting us via email. No prior competitive programming experience is required - we welcome beginners!"
+    },
+    {
+      "question": "What is the training schedule?",
+      "answer": "We conduct training sessions twice a week: Tuesdays for beginners/intermediate level and Saturdays for advanced topics. Sessions run from 2:00 PM to 5:00 PM."
+    },
+    {
+      "question": "Are there any requirements to participate?",
+      "answer": "The only requirement is enthusiasm for problem-solving and algorithms. We provide training for all skill levels, from complete beginners to advanced programmers."
+    },
+    {
+      "question": "How do I qualify for ECPC/ACPC teams?",
+      "answer": "Team selection is based on performance in our internal contests and training sessions. We typically select the top performers to represent USC in regional and international competitions."
+    }
+  ]
+}
