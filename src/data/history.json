@@ -5,79 +5,62 @@
       "title": "Continued Excellence",
       "description": "Building on our strong foundation, we continue to grow and excel in competitive programming with new initiatives and expanded training programs.",
       "achievements": [
-        "85+ active members",
-        "Advanced training curriculum",
-        "Mentorship programs",
-        "Industry partnerships"
+        "24 teams participated in ECPC",
+        "Qualified 5 teams for ECPC finals",
+        "Qualified 1 teams for ACPC finals",
+        "Mentorship programs"
       ],
       "stats": {
         "members": 85,
-        "contests": 15,
-        "awards": 8
+        "acpcTeams": 1,
+        "awards": 5
       }
     },
     {
       "year": "2024",
-      "title": "Record Breaking Year",
-      "description": "Our most successful year yet, with multiple teams qualifying for ECPC and ACPC, setting new standards for USC competitive programming.",
+      "title": "Major Breakthrough",
+      "description": "A pivotal year where we established ourselves as a serious competitive programming community with structured training and significant achievements.",
       "achievements": [
-        "3 teams qualified for ECPC",
-        "First ACPC participation",
-        "Regional Top 15 finish",
-        "15+ Expert level members"
+        "First ACPC qualification",
+        "24 teams participated in ECPC",
+        "Qualified 6 teams for ECPC finals",
+        "Qualified 1 teams for ACPC finals",
+        "Qualification contest for a 10+ hours"
       ],
       "stats": {
-        "members": 75,
-        "contests": 12,
+        "members": 80,
+        "acpcTeams": 1,
         "awards": 6
       }
     },
     {
       "year": "2023",
-      "title": "Major Breakthrough",
-      "description": "A pivotal year where we established ourselves as a serious competitive programming community with structured training and significant achievements.",
-      "achievements": [
-        "First ECPC qualification",
-        "Structured level system",
-        "Weekly training sessions",
-        "Community leadership formed"
-      ],
-      "stats": {
-        "members": 60,
-        "contests": 10,
-        "awards": 4
-      }
-    },
-    {
-      "year": "2022",
       "title": "Growth & Organization",
       "description": "Rapid expansion of the community with organized training sessions and the beginning of our competitive journey.",
       "achievements": [
-        "50+ members joined",
-        "Regular contest participation",
-        "Training program launched",
-        "Faculty advisor appointed"
+        "7 teams participated in ECPC",
+        "Qualified 2 teams for ECPC finals"
       ],
       "stats": {
         "members": 50,
-        "contests": 8,
+        "acpcTeams": 0,
         "awards": 2
       }
     },
     {
-      "year": "2021",
+      "year": "2022",
       "title": "Foundation Years",
       "description": "The beginning of our journey. A small group of passionate students came together to form what would become the USC competitive programming community.",
       "achievements": [
         "Community established",
         "First training sessions",
-        "Initial member recruitment",
-        "Basic infrastructure setup"
+        "Fielded 16 teams in the ECPC competition",
+        "Qualified 2 teams for the ECPC finals"
       ],
       "stats": {
-        "members": 25,
-        "contests": 4,
-        "awards": 1
+        "members": 48,
+        "acpcTeams": 0,
+        "awards": 2
       }
     }
   ],

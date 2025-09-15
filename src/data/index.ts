@@ -117,7 +117,7 @@ export interface Milestone {
   achievements: string[];
   stats?: {
     members?: number;
-    contests?: number;
+    acpcTeams?: number;
     awards?: number;
   };
 }
