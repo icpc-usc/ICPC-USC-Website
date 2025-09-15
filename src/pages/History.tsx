@@ -40,6 +40,7 @@ export function History() {
       Star,
       Target,
       TrendingUp,
+      AcpcIcon,
     };
     return icons[iconName as keyof typeof icons] || Trophy;
   };
@@ -73,7 +74,7 @@ export function History() {
                   <div
                     className={`inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br ${achievement.color} rounded-full mb-4`}
                   >
-                    <Icon className="w-8 h-8 text-white" />
+                    <Icon className="w-8 h-8 text-white fill-white" />
                   </div>
                   <div className="text-3xl font-bold mb-2">
                     {achievement.count}

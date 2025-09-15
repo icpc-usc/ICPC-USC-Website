@@ -66,17 +66,17 @@
   ],
   "achievements": [
     {
-      "title": "ECPC Qualifications",
-      "count": "8 Teams",
-      "description": "Total teams that qualified for Egyptian Collegiate Programming Contest",
-      "icon": "Trophy",
+      "title": "ACPC Participation",
+      "count": "2 Teams",
+      "description": "Teams that represented Egypt at Arab Collegiate Programming Contest",
+      "icon": "AcpcIcon",
       "color": "from-yellow-500 to-orange-500"
     },
     {
-      "title": "ACPC Participation",
-      "count": "3 Teams",
-      "description": "Teams that represented Egypt at Arab Collegiate Programming Contest",
-      "icon": "Star",
+      "title": "ECPC Qualifications",
+      "count": "15 Teams",
+      "description": "Total teams that qualified for Egyptian Collegiate Programming Contest",
+      "icon": "Trophy",
       "color": "from-purple-500 to-indigo-500"
     },
     {
