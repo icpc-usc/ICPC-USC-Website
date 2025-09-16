@@ -24,11 +24,15 @@ export interface Leader {
 
 export interface TeamMember {
   name: string;
+  avatar?: string;
   handle?: string;
   linkedin?: string;
   github?: string;
+  facebook?: string;
+  email?: string;
   maxRating?: number;
-  role?: string;
+  roles?: string[];
+  abouts?: string[];
 }
 
 export interface Team {

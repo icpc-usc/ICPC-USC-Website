@@ -6,164 +6,398 @@
       "description": "Responsible for training programs, contest preparation, and technical guidance",
       "members": [
         {
-          "name": "Karim Youssef",
+          "name": "Ibrahim Alghrbawy",
+          "avatar": "https://avatars.githubusercontent.com/u/110045112?v=4",
           "handle": "borhom",
-          "linkedin": "karim-youssef-dev",
-          "github": "karim-youssef",
-          "maxRating": 1650,
-          "role": "Level 1 Instructor"
+          "linkedin": "borhom",
+          "github": "Elghrbawy",
+          "facebook": "ebrahim.elghrbawy.35",
+          "email": "ibrahim.alghrbawy@gmail.com",
+          "maxRating": 2500,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "2x ACPC Finalist",
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Nour Mahmoud",
-          "handle": "nour_dev",
-          "linkedin": "nour-mahmoud-cs",
-          "github": "nour-mahmoud",
-          "maxRating": 1420,
-          "role": "Problem Setter"
+          "name": "Karim Ghazy",
+          "avatar": "https://userpic.codeforces.org/4312744/avatar/e60de1dabc0c16f3.jpg",
+          "handle": "Karimskee",
+          "linkedin": "karim-ghazy",
+          "github": "",
+          "facebook": "",
+          "email": "karim.ghazy.eng@gmail.com",
+          "maxRating": 1105,
+          "roles": [
+            "Level 0 Coach"
+          ],
+          "abouts": [
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Hassan Ali",
-          "handle": "hassan_cp",
-          "linkedin": "hassan-ali-programmer",
-          "github": "hassan-ali",
-          "maxRating": 1580,
-          "role": "Contest Coordinator"
+          "name": "Ahmed Mabrouk",
+          "avatar": "https://userpic.codeforces.org/1817515/avatar/95a9389d3aff73c8.jpg",
+          "handle": "A_M_S",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "said66913@gmail.com",
+          "maxRating": 1234,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "3x ECPC Finalist"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Mariam Ahmed",
-          "handle": "mariam_algo",
-          "linkedin": "mariam-ahmed-dev",
-          "github": "mariam-ahmed",
-          "maxRating": 1520,
-          "role": "Training Assistant"
+          "name": "Lina Osama",
+          "avatar": "",
+          "handle": "lina_os",
+          "linkedin": "lina-osama",
+          "github": "",
+          "facebook": "",
+          "email": "linaosama702@gmail.com",
+          "maxRating": 1035,
+          "roles": [
+            "Level 0 Coach"
+          ],
+          "abouts": [
+            "ECPC 2025 Finalist",
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Omar Khaled",
-          "handle": "omar_dev",
-          "linkedin": "omar-khaled-programmer",
-          "github": "omar-khaled",
-          "maxRating": 1480,
-          "role": "Mentor"
+          "name": "Rahma Atia",
+          "avatar": "https://userpic.codeforces.org/4313611/avatar/33b95c3d0c8384d8.jpg",
+          "handle": "Rahma_Atia",
+          "linkedin": "rahma-atia-70915633b",
+          "github": "",
+          "facebook": "",
+          "email": "ra7ma3tia.90@gmail.com",
+          "maxRating": 981,
+          "roles": [
+            "Level 0 Coach"
+          ],
+          "abouts": [
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Sara Mohamed",
-          "handle": "sara_cp",
-          "linkedin": "sara-mohamed-cs",
-          "github": "sara-mohamed",
-          "maxRating": 1390,
-          "role": "Code Reviewer"
+          "name": "Maryam Abdelhady",
+          "avatar": "https://userpic.codeforces.org/3439819/avatar/4b88a04eab7bc647.jpg",
+          "handle": "maryam_abdelhady_",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "maryamabdelhady13@gmail.com",
+          "maxRating": 1252,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [],
+          "season": "2024-2025"
         },
         {
-          "name": "Ahmed Youssef",
-          "handle": "ahmed_prog",
-          "linkedin": "ahmed-youssef-dev",
-          "github": "ahmed-youssef",
-          "maxRating": 1610,
-          "role": "Workshop Leader"
+          "name": "Ahmed Ashraf",
+          "avatar": "https://userpic.codeforces.org/2300832/avatar/7dfd2200588f73d1.jpg",
+          "handle": "ashraf",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "ahmedashrafmohamed112@gmail.com",
+          "maxRating": 1298,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "2x ECPC Finalist"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Fatma Ali",
-          "handle": "fatma_algo",
-          "linkedin": "fatma-ali-programmer",
-          "github": "fatma-ali",
-          "maxRating": 1350,
-          "role": "Technical Writer"
+          "name": "Ahmed Al-Mahrouqi",
+          "avatar": "https://userpic.codeforces.org/2874562/avatar/9b6a72463a3616be.jpg",
+          "handle": "Almahrouky",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "ahmed.aal.mahrouk@gmail.com",
+          "maxRating": 1504,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "2x ECPC Finalist"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Mohamed Hassan",
-          "handle": "mohamed_cp",
-          "linkedin": "mohamed-hassan-dev",
-          "github": "mohamed-hassan",
-          "maxRating": 1540,
-          "role": "System Administrator"
+          "name": "Sara Badwy",
+          "avatar": "https://userpic.codeforces.org/3573595/avatar/1e726c9cd57cbe33.jpg",
+          "handle": "saraa_badwy",
+          "linkedin": "sara-badwy-391a242a8",
+          "github": "",
+          "facebook": "",
+          "email": "sarabadwy499@gmail.com",
+          "maxRating": 915,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [],
+          "season": "2024-2025"
         },
         {
-          "name": "Yasmin Khaled",
-          "handle": "yasmin_dev",
-          "linkedin": "yasmin-khaled-cs",
-          "github": "yasmin-khaled",
-          "maxRating": 1460,
-          "role": "Database Manager"
+          "name": "Menna Fathy",
+          "avatar": "https://userpic.codeforces.org/3899178/avatar/a257913dfac4501e.jpg",
+          "handle": "Mennah_fathy_gadalla",
+          "linkedin": "mennah-fathy-589228350",
+          "github": "",
+          "facebook": "",
+          "email": "mennafathy569785@gmail.com",
+          "maxRating": 1452,
+          "roles": [
+            "Level 1 Coach"
+          ],
+          "abouts": [],
+          "season": "2024-2025"
         },
         {
-          "name": "Amr Ahmed",
-          "handle": "amr_prog",
-          "linkedin": "amr-ahmed-programmer",
-          "github": "amr-ahmed",
-          "maxRating": 1580,
-          "role": "Quality Assurance"
+          "name": "Basmala Mohammed",
+          "avatar": "https://userpic.codeforces.org/4313624/avatar/3ec81ed7c34769ab.jpg",
+          "handle": "Basmalamo.o",
+          "linkedin": "basmala-mohamed-413b23356",
+          "github": "",
+          "facebook": "",
+          "email": "basmalala681@gmail.com",
+          "maxRating": 1043,
+          "roles": [
+            "Level 0 Coach"
+          ],
+          "abouts": [
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Nada Mohamed",
-          "handle": "nada_algo",
-          "linkedin": "nada-mohamed-dev",
-          "github": "nada-mohamed",
-          "maxRating": 1420,
-          "role": "Research Assistant"
+          "name": "Mohamed Ahmed",
+          "avatar": "https://userpic.codeforces.org/4313041/avatar/9bdd5505e9afdebd.jpg",
+          "handle": "Mo_7aMed_A7med",
+          "linkedin": "mohamedahmedelfar",
+          "github": "",
+          "facebook": "",
+          "email": "mohamedelfar20006@gmail.com",
+          "maxRating": 1215,
+          "roles": [
+            "Level 0 Coach"
+          ],
+          "abouts": [
+            "Rejcted Team",
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Khaled Hassan",
-          "handle": "khaled_cp",
-          "linkedin": "khaled-hassan-cs",
-          "github": "khaled-hassan",
-          "maxRating": 1650,
-          "role": "Performance Analyst"
+          "name": "Amer Fahim",
+          "avatar": "https://userpic.codeforces.org/3606820/avatar/813d7176ba92fa16.jpg",
+          "handle": "3_AMER_",
+          "linkedin": "amer-abdullah-b16a7a302",
+          "github": "",
+          "facebook": "",
+          "email": "amerabdullah822@gmail.com",
+          "maxRating": 1428,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Aya Ali",
-          "handle": "aya_dev",
-          "linkedin": "aya-ali-programmer",
-          "github": "aya-ali",
-          "maxRating": 1380,
-          "role": "Algorithm Tutor"
+          "name": "Abdelrhman Elhabal",
+          "avatar": "https://userpic.codeforces.org/3782281/avatar/87b714e353b99456.jpg",
+          "handle": "El7abal",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "abdelrahmanelhabal910@gmail.com",
+          "maxRating": 1661,
+          "roles": [
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "CS student at Menofia University",
+            "ACPC 2025 Finalist"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Mahmoud Ahmed",
-          "handle": "mahmoud_prog",
-          "linkedin": "mahmoud-ahmed-dev",
-          "github": "mahmoud-ahmed",
-          "maxRating": 1590,
-          "role": "Contest Judge"
+          "name": "Nouran Shalaby",
+          "avatar": "https://userpic.codeforces.org/3951646/avatar/cd000eb6a1623305.jpg",
+          "handle": "TacticalTaco",
+          "linkedin": "nouran-shalaby-4ba9112b4",
+          "github": "",
+          "facebook": "",
+          "email": "shalabynouran@gmail.com",
+          "maxRating": 1803,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Dina Khaled",
-          "handle": "dina_algo",
-          "linkedin": "dina-khaled-cs",
-          "github": "dina-khaled",
-          "maxRating": 1440,
-          "role": "Technical Support"
+          "name": "Yousef Sedhom",
+          "avatar": "https://userpic.codeforces.org/3606811/avatar/fa43bfcb0104e21b.jpg",
+          "handle": "yse",
+          "linkedin": "yousefff",
+          "github": "",
+          "facebook": "",
+          "email": "",
+          "maxRating": 1768,
+          "roles": [
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "2x ACPC Finalist",
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Youssef Mohamed",
-          "handle": "youssef_cp",
-          "linkedin": "youssef-mohamed-programmer",
-          "github": "youssef-mohamed",
-          "maxRating": 1570,
-          "role": "Platform Developer"
+          "name": "Mohamed Assem Bahig",
+          "avatar": "https://userpic.codeforces.org/3813052/avatar/7ce1dd6c39759660.jpg",
+          "handle": "AsemoGG",
+          "linkedin": "mohamed-assem-316618217",
+          "github": "",
+          "facebook": "",
+          "email": "massem539@gmail.com",
+          "maxRating": 1806,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [],
+          "season": "2024-2025"
         },
         {
-          "name": "Heba Hassan",
-          "handle": "heba_dev",
-          "linkedin": "heba-hassan-dev",
-          "github": "heba-hassan",
-          "maxRating": 1410,
-          "role": "Data Analyst"
+          "name": "Hossam Saber Sayed",
+          "avatar": "https://userpic.codeforces.org/3938057/avatar/80b801ae4f9dfa6.jpg",
+          "handle": "Homz",
+          "linkedin": "hossam-saberr",
+          "github": "",
+          "facebook": "",
+          "email": "hosssam.sabeer@gmail.com",
+          "maxRating": 1799,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "CS student at Menofia University",
+            "ACPC 2025 Finalist"
+          ],
+          "season": "2024-2025"
         },
         {
-          "name": "Tamer Ali",
-          "handle": "tamer_prog",
-          "linkedin": "tamer-ali-cs",
-          "github": "tamer-ali",
-          "maxRating": 1520,
-          "role": "Community Moderator"
+          "name": "Mona Dewidar",
+          "avatar": "https://userpic.codeforces.org/3088351/avatar/f84388eb8e5e20a4.jpg",
+          "handle": "monadewidar",
+          "linkedin": "mona-dewidar-7169b42a9",
+          "github": "",
+          "facebook": "",
+          "email": "monadewidar02@gmail.com",
+          "maxRating": 1128,
+          "roles": [
+            "Level 1 Coach"
+          ],
+          "abouts": [],
+          "season": "2024-2025"
         },
         {
-          "name": "Mona Elsayed",
-          "handle": "mona_algo",
-          "linkedin": "mona-elsayed-dev",
-          "github": "mona-elsayed",
-          "maxRating": 1390,
-          "role": "Resource Manager"
+          "name": "Mahmoud Essam",
+          "avatar": "https://userpic.codeforces.org/3622002/avatar/579dcfa36b471209.jpg",
+          "handle": "7ODA_666",
+          "linkedin": "mahmoud--essam",
+          "github": "",
+          "facebook": "",
+          "email": "esam1000hammad@gmail.com",
+          "maxRating": 1271,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [
+            "ECPC 2025 Finalist",
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
+        },
+        {
+          "name": "Mohamed Shehab",
+          "avatar": "https://userpic.codeforces.org/3622166/avatar/72bf74fcbdd042be.jpg",
+          "handle": ".Shehab.",
+          "linkedin": "mohamedshehab2005",
+          "github": "",
+          "facebook": "",
+          "email": "mohamedshehab52005@gmail.com",
+          "maxRating": 1237,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [
+            "ECPC 2025 Finalist",
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
+        },
+        {
+          "name": "Steven Abualkhair",
+          "avatar": "https://userpic.codeforces.org/2133792/avatar/f82f2a4f8d08034b.jpg",
+          "handle": "Steven-_-AbuAlkhair",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "steven.abualkhair@gmail.com",
+          "maxRating": 1508,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [
+            "ECPC 2025 Finalist",
+            "CS student at USC"
+          ],
+          "season": "2024-2025"
         }
       ]
     },
