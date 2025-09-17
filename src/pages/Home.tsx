@@ -57,7 +57,7 @@ export function Home() {
         </div>
         
         {/* Gradient Overlay */}
-        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/100 via-purple-900/90 to-indigo-900/100"></div>
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-900/95 via-purple-900/90 to-indigo-900/95 dark:from-blue-900/100 dark:via-purple-900/90 dark:to-indigo-900/100"></div>
         
         {/* Content */}
         <div className="relative z-10 max-w-4xl mx-auto text-center text-white">
