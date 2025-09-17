@@ -263,7 +263,6 @@ export default function IcpcUscIcon(props: React.SVGProps<SVGSVGElement>) {
     39 -132 100 -49 22 -55 23 -75 14z"/>
     <path d="M317 3822 c-12 -2 -17 -11 -15 -25 3 -21 9 -22 98 -25 115 -3 140 2
     140 28 0 17 -7 20 -42 21 -118 4 -165 4 -181 1z"/>
-    </g>
     </svg>
     );
 }
