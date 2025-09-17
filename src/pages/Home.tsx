@@ -78,7 +78,7 @@ export function Home() {
                 window.scrollTo({ top: 0, behavior: 'smooth' });
                 navigate('/training');
               }}
-              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 hover:scale-105 shadow-xl text-sm sm:text-base"
+              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-200 dark:from-blue-600 dark:to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 hover:scale-105 shadow-xl text-sm sm:text-base"
             >
               Training <ArrowRight className="ml-2 w-5 h-5" />
             </button>
