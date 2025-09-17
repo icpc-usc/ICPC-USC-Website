@@ -61,11 +61,11 @@ export function Home() {
         
         {/* Content */}
         <div className="relative z-10 max-w-4xl mx-auto text-center text-white">
-          <div className="mb-6">
+          {/* <di className="mb-6">
             <div className="inline-flex items-center justify-center w-48 sm:w-64 md:w-80">
               <img src={heroData.logo} alt="ICPC USC Logo" className="animate-float" />
             </div>
-          </div>
+          </div> */}
           
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 text-gray-200 leading-relaxed max-w-3xl mx-auto animate-fadeInUp animate-delay-500">
             {heroData.description}
