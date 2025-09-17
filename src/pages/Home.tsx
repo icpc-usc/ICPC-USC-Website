@@ -52,7 +52,7 @@ export function Home() {
           <img
             src={heroData.backgroundImage}
             alt="ICPC USC Community Group Photo"
-            className="w-full h-full object-cover"s
+            className="w-full h-full object-cover"
           />
         </div>
         
