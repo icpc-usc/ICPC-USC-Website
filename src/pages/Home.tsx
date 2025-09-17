@@ -2,6 +2,7 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { ArrowRight, Trophy, Users, Calendar, Star } from 'lucide-react';
 import { homeData, membersData, trainingData } from '../data';
+import { IcpcUscIcon } from '../icons/IcpcUscIcon'
 
 export function Home() {
   const navigate = useNavigate();
@@ -61,11 +62,12 @@ export function Home() {
         
         {/* Content */}
         <div className="relative z-10 max-w-4xl mx-auto text-center text-white">
-          {/* <di className="mb-6">
+          <div className="mb-6">
             <div className="inline-flex items-center justify-center w-48 sm:w-64 md:w-80">
-              <img src={heroData.logo} alt="ICPC USC Logo" className="animate-float" />
+              <IcpcUscIcon />
+              {/* <img src={heroData.logo} alt="ICPC USC Logo" className="animate-float" /> */}
             </div>
-          </div> */}
+          </div>
           
           <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 text-gray-200 leading-relaxed max-w-3xl mx-auto animate-fadeInUp animate-delay-500">
             {heroData.description}
