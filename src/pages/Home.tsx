@@ -74,15 +74,14 @@ export function Home() {
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center mb-8 sm:mb-12 animate-fadeInUp animate-delay-700">
             <button 
               onClick={() => {
-
                 window.scrollTo({ top: 0, behavior: 'smooth' });
                 navigate('/training');
               }}
-              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 hover:scale-105 shadow-xl text-sm sm:text-base"
+              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold rounded-lg transition-all duration-200 hover:scale-105 shadow-xl hover:shadow-2xl text-sm sm:text-base"
             >
               Training <ArrowRight className="ml-2 w-5 h-5" />
             </button>
-            <a className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-white/10 backdrop-blur-sm text-white font-semibold rounded-lg hover:bg-white/20 transition-all duration-200 border border-white/20 shadow-xl hover:scale-105 text-sm sm:text-base" href="https://discord.gg/UxEkfXZpJw" target="_blank">
+            <a className="inline-flex items-center justify-center px-6 sm:px-8 py-3 sm:py-4 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white font-semibold rounded-lg transition-all duration-200 border border-white/20 shadow-xl hover:shadow-2xl hover:scale-105 text-sm sm:text-base" href="https://discord.gg/UxEkfXZpJw" target="_blank">
               Join Community
             </a>
           </div>
@@ -158,11 +157,10 @@ export function Home() {
           <div className="text-center mt-8 sm:mt-12">
             <button 
               onClick={() => {
-
                 window.scrollTo({ top: 0, behavior: 'smooth' });
                 navigate('/gallery');
               }}
-              className="inline-flex items-center px-6 sm:px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white font-semibold rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all duration-200 hover:scale-105 text-sm sm:text-base"
+              className="inline-flex items-center px-6 sm:px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold rounded-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-xl text-sm sm:text-base"
             >
               View Full Gallery <ArrowRight className="ml-2 w-4 h-4 sm:w-5 sm:h-5" />
             </button>
@@ -184,7 +182,7 @@ export function Home() {
                 window.scrollTo({ top: 0, behavior: 'smooth' });
                 navigate('/training');
               }}
-              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 bg-white text-blue-600 font-semibold rounded-lg hover:bg-gray-100 transition-all duration-200 hover:scale-105 text-sm sm:text-base"
+              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 bg-white hover:bg-gray-100 text-blue-600 font-semibold rounded-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-xl text-sm sm:text-base"
             >
               Get Started Today
             </button>
@@ -193,7 +191,7 @@ export function Home() {
                 window.scrollTo({ top: 0, behavior: 'smooth' });
                 navigate('/contact');
               }}
-              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 bg-white/10 backdrop-blur-sm text-white font-semibold rounded-lg hover:bg-white/20 transition-all duration-200 border border-white/20 hover:scale-105 text-sm sm:text-base"
+              className="inline-flex items-center justify-center px-6 sm:px-8 py-3 bg-white/10 backdrop-blur-sm hover:bg-white/20 text-white font-semibold rounded-lg transition-all duration-200 border border-white/20 shadow-lg hover:shadow-xl hover:scale-105 text-sm sm:text-base"
             >
               Contact Us
             </button>

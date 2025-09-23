@@ -215,10 +215,46 @@ body {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+/* Enhanced button styles for better light mode visibility */
+@layer utilities {
+  .btn-primary {
+    @apply bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white font-semibold rounded-lg transition-all duration-200 hover:scale-105 shadow-lg hover:shadow-xl;
+  }
+  
+  .btn-secondary {
+    @apply bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 border border-blue-200 dark:border-blue-600 hover:bg-blue-50 dark:hover:bg-blue-900/20 font-semibold rounded-lg transition-all duration-200 hover:scale-105 shadow-md hover:shadow-lg;
+  }
+  
+  .btn-outline {
+    @apply bg-transparent border-2 border-blue-600 dark:border-blue-400 text-blue-600 dark:text-blue-400 hover:bg-blue-600 hover:text-white dark:hover:bg-blue-400 dark:hover:text-gray-900 font-semibold rounded-lg transition-all duration-200 hover:scale-105;
+  }
+  
+  .card-hover {
+    @apply hover:shadow-xl dark:hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2;
+  }
+  
+  .text-shadow-light {
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text-shadow-dark {
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  }
+}
+
 /* Light mode specific enhancements */
 @media (prefers-color-scheme: light) {
   .hover-glow:hover {
     box-shadow: 0 0 15px rgba(59, 130, 246, 0.2);
+  }
+  
+  /* Enhanced button shadows for light mode */
+  .shadow-enhanced {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  .shadow-enhanced:hover {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
   }
 }
 
@@ -227,12 +263,29 @@ body {
   .hover-glow:hover {
     box-shadow: 0 0 15px rgba(59, 130, 246, 0.4);
   }
+  
+  /* Enhanced button shadows for dark mode */
+  .shadow-enhanced {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3), 0 2px 4px -1px rgba(0, 0, 0, 0.2);
+  }
+  
+  .shadow-enhanced:hover {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -2px rgba(0, 0, 0, 0.2);
+  }
 }
 
 /* Improved focus states for accessibility */
 .focus-visible:focus-visible {
   outline: 2px solid #3b82f6;
   outline-offset: 2px;
+}
+
+/* Enhanced focus states for buttons */
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
 }
 
 /* Better selection colors */
@@ -244,4 +297,29 @@ body {
 .dark ::selection {
   background-color: #60a5fa;
   color: #111827;
+}
+
+/* Light mode specific improvements */
+.light {
+  /* Ensure text is readable on light backgrounds */
+  --tw-text-opacity: 1;
+}
+
+/* Enhanced contrast for light mode */
+@media (prefers-color-scheme: light) {
+  .bg-gray-50 {
+    background-color: #f8fafc;
+  }
+  
+  .text-gray-600 {
+    color: #475569;
+  }
+  
+  .text-gray-700 {
+    color: #334155;
+  }
+  
+  .border-gray-200 {
+    border-color: #e2e8f0;
+  }
 }
