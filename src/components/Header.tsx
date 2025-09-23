@@ -1,17 +1,29 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
 import { Code2, Menu, X, Sun, Moon, ChevronDown } from 'lucide-react';
-import { useTheme, type Theme } from '../hooks/useTheme';
 import { homeData } from '../data';
+import { useTheme, type Theme } from '../hooks/useTheme';
 import IcpcUscIcon from '../icons/IcpcUscIcon';
 
 interface HeaderProps {
   onTrainingLevelSelect: (season: string, level: string) => void;
-  theme: Theme;
-  toggleTheme: () => void;
 }
 
-export function Header({ onTrainingLevelSelect, theme, toggleTheme }: HeaderProps) {
+export function Header({ onTrainingLevelSelect }: HeaderProps) {
+  // Theme state: first like system, then save user choice
+  const [theme, setTheme] = React.useState<'light' | 'dark'>(
+    () => localStorage.getItem('theme') as 'light' | 'dark' ||
+      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+  );
+
+  // Apply theme to <html> and save to localStorage
+  useEffect(() => {
+    document.documentElement.classList.toggle('dark', theme === 'dark');
+    localStorage.setItem('theme', theme);
+  }, [theme]);
+
+  const toggleTheme = () => setTheme(theme === 'light' ? 'dark' : 'light');
+
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
   const [isTrainingDropdownOpen, setIsTrainingDropdownOpen] = React.useState(false);
   const navigate = useNavigate();
@@ -62,8 +74,7 @@ export function Header({ onTrainingLevelSelect, theme, toggleTheme }: HeaderProp
             navigate('/');
           }}>
             <div className="flex items-center justify-center w-10 sm:w-12">
-            <img src="https://res.cloudinary.com/dcatuev0j/image/upload/v1758591020/ICPC-USC_png_without_title_gir8ru.png" alt="ICPC USC Logo" className="" />
-            {/* <IcpcUscIcon className='fill-blue-800' /> */}
+            <IcpcUscIcon className='fill-blue-500 dark:fill-white' />
             </div>
             <div className="hidden sm:block">
               <h1 className="text-lg sm:text-xl font-bold text-gray-900 dark:text-white">ICPC USC</h1>
