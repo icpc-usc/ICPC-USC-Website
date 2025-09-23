@@ -105,9 +105,7 @@ export function Leaders() {
                 Current Leadership Team
               </h2>
             </div>
-            <span className="ml-0 sm:ml-4 px-3 py-1 bg-green-100 dark:bg-green-900/20 text-green-800 dark:text-green-200 text-xs sm:text-sm font-medium rounded-full self-start sm:self-auto">
-              Season 2024-2025
-            </span>
+
           </div>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 sm:gap-8">
             {currentLeaders.map((leader, index) => {
@@ -264,7 +262,7 @@ export function Leaders() {
                                   <div className="flex align-center justify-center md:flex-row flex-col items-center md:items-start">
                                     {member.avatar ? (
                                       <div className="w-14 h-14  bg-gradient-to-br from-blue-600 to-purple-600 rounded-full overflow-hidden flex items-center justify-center text-white font-bold text-sm sm:text-base mb-3 flex-shrink-0 transition-transform duration-300 hover:scale-110">
-                                        <img src={member.avatar} alt="icon"/>
+                                        <img src={member.avatar} alt="icon" className="w-full h-full object-cover"/>
                                       </div>
                                     ) : (
                                       

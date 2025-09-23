@@ -3,7 +3,6 @@ import React from "react";
 export default function AcpcIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-    
       {...props}
       version="1.0"
       xmlns="http://www.w3.org/2000/svg"
@@ -13,6 +12,7 @@ export default function AcpcIcon(props: React.SVGProps<SVGSVGElement>) {
       <g
         transform="translate(0.000000,300.000000) scale(0.050000,-0.050000)"
         stroke="none"
+        fill="currentColor"
       >
         <path
           d="M1550 5562 c-131 -61 -162 -107 -836 -1275 -775 -1341 -753 -1291
@@ -36,7 +36,6 @@ c17 -14 42 -70 55 -125 13 -55 79 -203 148 -330 135 -248 164 -269 240 -169
 -38 30 -85z"
         />
       </g>
-
     </svg>
   );
 }

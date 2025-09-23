@@ -33,7 +33,7 @@ function App() {
             theme={theme}
             toggleTheme={toggleTheme}
           />
-          <main className="flex-1">
+          <main className="flex-1 bg-white dark:bg-gray-900">
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/training" element={

@@ -106,9 +106,9 @@ export function Header({ onTrainingLevelSelect }: HeaderProps) {
                 {/* Training Dropdown */}
                 {item.hasDropdown && isTrainingDropdownOpen && (
                   <div className="absolute top-full left-0 mt-1 w-52 sm:w-56 bg-white dark:bg-gray-800 rounded-lg shadow-lg border border-gray-200 dark:border-gray-700 py-2 z-50">
-                    <div className="px-4 py-2 text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide border-b border-gray-200 dark:border-gray-700">
+                    {/* <div className="px-4 py-2 text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide border-b border-gray-200 dark:border-gray-700">
                       Current Season (2024-2025)
-                    </div>
+                    </div> */}
                     {currentSeasonLevels.map((level) => (
                       <button
                         key={level.level}
@@ -165,9 +165,9 @@ export function Header({ onTrainingLevelSelect }: HeaderProps) {
                   </button>
                   {item.hasDropdown && (
                     <div className="ml-4 mt-2 space-y-1">
-                      <div className="px-3 py-1 text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide break-words">
+                      {/* <div className="px-3 py-1 text-xs font-semibold text-gray-500 dark:text-gray-400 uppercase tracking-wide break-words">
                         Current Season
-                      </div>
+                      </div> */}
                       {currentSeasonLevels.map((level) => (
                         <button
                           key={level.level}

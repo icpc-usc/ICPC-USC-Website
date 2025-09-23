@@ -74,9 +74,9 @@ export function History() {
                   <div
                     className={`inline-flex items-center justify-center w-16 h-16 bg-gradient-to-br ${achievement.color} rounded-full mb-4`}
                   >
-                    <Icon className="w-8 h-8 text-white fill-white" />
+                    <Icon className="w-8 h-8 dark:text-white" />
                   </div>
-                  <div className="text-3xl font-bold mb-2">
+                  <div className="text-3xl font-bold mb-2 ">
                     {achievement.count}
                   </div>
                   <h3 className="text-lg font-semibold mb-2">
