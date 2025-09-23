@@ -155,7 +155,7 @@ export function Gallery({ onEventSelect }: GalleryProps) {
                   </span>
                 </div>
                 <div className="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-colors duration-500"></div>
-                <div className="absolute bottom-4 right-4 bg-black/70 backdrop-blur-sm text-white px-3 py-1 rounded-full flex items-center space-x-2">
+                <div className="absolute bottom-4 right-4 bg-black/70 dark:bg-black/80 backdrop-blur-sm text-white px-3 py-1 rounded-full flex items-center space-x-2">
                   <Camera className="w-4 h-4" />
                   <span className="text-sm font-medium">{event.photos ? event.photos.length : event.photoCount}</span>
                 </div>

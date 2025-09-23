@@ -33,10 +33,9 @@ export function Training({ onLevelSelect, onWaveSelect }: TrainingProps) {
 
   const getLevelDisplayName = (level: string) => {
     const names = {
-      'newcomers': 'Level 0 - Newcomers',
-      'beginner': 'Level 1 - Beginner',
-      'intermediate': 'Level 2 - Intermediate',
-      'advanced': 'Level 3 - Advanced'
+      'level 0': 'Level 0 - Newcomers',
+      'level 1': 'Level 1 - Beginner',
+      'level 2': 'Level 2 - Intermediate',
     };
     return names[level as keyof typeof names] || level;
   };
@@ -202,8 +201,15 @@ export function Training({ onLevelSelect, onWaveSelect }: TrainingProps) {
                         <div className="text-sm font-medium text-blue-800 dark:text-blue-200 mb-1">
                           Current Progress
                         </div>
-                        <div className="text-xs text-blue-600 dark:text-blue-400">
+                        {/* <div className="text-xs text-blue-600 dark:text-blue-400">
                           Week {currentWeekNumber} in progress
+                        </div> */}
+                      </div>
+                    )}
+                    {!(wave.wave === currentSeason.currentWave) && (
+                      <div className="bg-gray-50 dark:bg-gray-900/20 p-3 rounded-lg">
+                        <div className="text-sm font-medium text-gray-800 dark:text-gray-200 mb-1">
+                          Starting Soon
                         </div>
                       </div>
                     )}

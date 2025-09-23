@@ -1,243 +1,38 @@
 {
   "seasons": [
     {
-      "season": "Season 4",
-      "year": "2024-2025",
+      "season": "Season 5",
+      "year": "2025-2026",
       "description": "Current season focusing on advanced algorithms and contest preparation",
       "currentWave": 1,
-      "currentWeek": 3,
       "isActive": true,
-      "totalStudents": 60,
+      "totalStudents": 0,
       "waves": [
         {
           "wave": 1,
           "title": "Fall Wave",
           "description": "",
-          "startDate": "2024-09-01",
-          "endDate": "2024-10-15",
+          "startDate": "2025-10-01",
+          "endDate": "2026-04-01",
           "isCompleted": false,
           "levels": [
             {
               "level": "level 0",
               "description": "Introduction to competitive programming fundamentals",
-              "studentCount": 25,
-              "currentWeek": 3,
               "weeks": [
-                {
-                  "week": 1,
-                  "topic": "Introduction to Competitive Programming",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Basic Input/Output",
-                  "topContestant": { "name": "Ahmed Mohamed", "handle": "ahmed_coder", "score": 450 }
-                },
-                {
-                  "week": 2,
-                  "topic": "Arrays and Basic Operations",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Array Manipulation",
-                  "topContestant": { "name": "Sara Ali", "handle": "sara_algo", "score": 520 }
-                },
-                {
-                  "week": 3,
-                  "topic": "Loops and Conditionals",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Control Structures",
-                  "topContestant": { "name": "Nour Mahmoud", "handle": "nour_dev", "score": 380 }
-                },
-                {
-                  "week": 4,
-                  "topic": "String Manipulation",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "String Problems",
-                  "topContestant": { "name": "Karim Youssef", "handle": "karim_prog", "score": 490 }
-                }
               ]
             },
             {
               "level": "level 1",
               "description": "Basic algorithms and data structures",
-              "studentCount": 20,
-              "currentWeek": 4,
               "weeks": [
-                {
-                  "week": 1,
-                  "topic": "Sorting Algorithms",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Bubble, Selection, Insertion Sort",
-                  "topContestant": { "name": "Omar Hassan", "handle": "omar_cp", "score": 680 }
-                },
-                {
-                  "week": 2,
-                  "topic": "Binary Search",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Search Algorithms",
-                  "topContestant": { "name": "Ahmed Mohamed", "handle": "ahmed_coder", "score": 720 }
-                },
-                {
-                  "week": 3,
-                  "topic": "Two Pointers Technique",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Array Problems",
-                  "topContestant": { "name": "Sara Ali", "handle": "sara_algo", "score": 650 }
-                },
-                {
-                  "week": 4,
-                  "topic": "Recursion Basics",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Recursive Solutions",
-                  "topContestant": { "name": "Karim Youssef", "handle": "karim_prog", "score": 590 }
-                }
               ]
             },
             {
               "level": "level 2",
               "description": "Advanced algorithms and data structures",
-              "studentCount": 20,
-              "currentWeek": 2,
               "weeks": [
               ]
-            }
-          ]
-        },
-        {
-          "wave": 2,
-          "title": "Spring Wave",
-          "description": "",
-          "startDate": "2025-10-16",
-          "endDate": "2025-12-01",
-          "isCompleted": false,
-          "levels": [
-            {
-              "level": "level 1",
-              "description": "Advanced basic algorithms",
-              "studentCount": 18,
-              "currentWeek": 3,
-              "weeks": [
-                {
-                  "week": 1,
-                  "topic": "Advanced Sorting & Searching",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Merge Sort, Quick Sort",
-                  "topContestant": { "name": "Omar Hassan", "handle": "omar_cp", "score": 750 }
-                },
-                {
-                  "week": 2,
-                  "topic": "Stack and Queue Applications",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Data Structure Problems",
-                  "topContestant": { "name": "Ahmed Mohamed", "handle": "ahmed_coder", "score": 680 }
-                },
-                {
-                  "week": 3,
-                  "topic": "Basic Graph Theory",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Graph Representation",
-                  "topContestant": { "name": "Sara Ali", "handle": "sara_algo", "score": 720 }
-                }
-              ]
-            },
-            {
-              "level": "level 2",
-              "description": "Advanced topics and problem-solving techniques",
-              "studentCount": 15,
-              "currentWeek": 3,
-              "weeks": [
-                {
-                  "week": 1,
-                  "topic": "Dynamic Programming Fundamentals",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Classic DP Problems",
-                  "topContestant": { "name": "Omar Hassan", "handle": "omar_cp", "score": 850 }
-                },
-                {
-                  "week": 2,
-                  "topic": "Graph Theory - DFS & BFS",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Graph Traversal",
-                  "topContestant": { "name": "Ahmed Mohamed", "handle": "ahmed_coder", "score": 780 }
-                },
-                {
-                  "week": 3,
-                  "topic": "Greedy Algorithms",
-                  "recordingUrl": "#",
-                  "problemSheetUrl": "#",
-                  "practiceSession": "Optimization Problems",
-                  "topContestant": { "name": "Sara Ali", "handle": "sara_algo", "score": 720 }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "season": "Season 3",
-      "year": "2023-2024",
-      "description": "Previous season with focus on graph algorithms and number theory",
-      "currentWave": 3,
-      "currentWeek": 4,
-      "totalStudents": 45,
-      "waves": [
-        {
-          "wave": 1,
-          "title": "Wave 1",
-          "description": "Basic programming and problem-solving fundamentals",
-          "startDate": "2023-09-01",
-          "endDate": "2023-10-15",
-          "isCompleted": true,
-          "levels": [
-            {
-              "level": "level 0",
-              "description": "Introduction to competitive programming fundamentals",
-              "studentCount": 15,
-              "currentWeek": 4,
-              "weeks": [
-                
-              ]
-            },
-            {
-              "level": "level 1",
-              "description": "Basic algorithms and data structures",
-              "studentCount": 18,
-              "currentWeek": 4,
-              "weeks": []
-            }
-          ]
-        },
-        {
-          "wave": 2,
-          "title": "Wave 2",
-          "description": "Advanced algorithms and data structures",
-          "startDate": "2023-10-16",
-          "endDate": "2023-12-01",
-          "isCompleted": true,
-          "levels": [
-            {
-              "level": "level 1",
-              "description": "Advanced basic concepts",
-              "studentCount": 16,
-              "currentWeek": 3,
-              "weeks": []
-            },
-            {
-              "level": "level 2",
-              "description": "Graph theory and dynamic programming",
-              "studentCount": 12,
-              "currentWeek": 3,
-              "weeks": []
             }
           ]
         }

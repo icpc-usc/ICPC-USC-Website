@@ -251,7 +251,7 @@ export function GalleryEvent({ season, eventId, onBack }: GalleryEventProps) {
               </div>
 
               {/* Photo info */}
-              <div className="mt-4 bg-white/10 backdrop-blur-md text-white p-4 rounded-lg border border-white/20">
+              <div className="mt-4 bg-white/10 dark:bg-black/20 backdrop-blur-md text-white p-4 rounded-lg border border-white/20">
                 <div className="flex items-start justify-between">
                   <div className="flex-1 min-w-0">
                     {selectedPhoto.caption && (
@@ -265,12 +265,12 @@ export function GalleryEvent({ season, eventId, onBack }: GalleryEventProps) {
                     )}
                   </div>
                   <div className="flex items-center space-x-4 ml-4">
-                    <div className="text-sm text-white/80 bg-white/10 px-3 py-1 rounded-full">
+                    <div className="text-sm text-white/80 bg-white/10 dark:bg-black/20 px-3 py-1 rounded-full">
                       {currentPhotoIndex + 1} of {eventData.photos ? eventData.photos.length : 0}
                     </div>
                     <button
                       onClick={() => window.open(selectedPhoto.url, '_blank')}
-                      className="p-2 bg-white/20 hover:bg-white/30 rounded-full transition-colors duration-200"
+                      className="p-2 bg-white/20 dark:bg-black/30 hover:bg-white/30 dark:hover:bg-black/40 rounded-full transition-colors duration-200"
                       title="Open in new tab"
                     >
                       <ExternalLink className="w-4 h-4" />
