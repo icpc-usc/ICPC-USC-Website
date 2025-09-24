@@ -3,11 +3,11 @@ import React from "react";
 export default function AcpcIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg
-      {...props}
-      version="1.0"
-      xmlns="http://www.w3.org/2000/svg"
-      viewBox="0 0 300.000000 300.000000"
-      preserveAspectRatio="xMidYMid meet"
+    version="1.0"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 300.000000 300.000000"
+    preserveAspectRatio="xMidYMid meet"
+    {...props}
     >
       <g
         transform="translate(0.000000,300.000000) scale(0.050000,-0.050000)"

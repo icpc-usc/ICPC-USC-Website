@@ -9,10 +9,6 @@ export default function IcpcUscIcon(props: React.SVGProps<SVGSVGElement>) {
       preserveAspectRatio="xMidYMid meet"
       {...props}
     >
-      <metadata>
-        Created by potrace 1.10, written by Peter Selinger 2001-2011
-      </metadata>
-
       <g
         transform="translate(0.000000,900.000000) scale(0.100000,-0.100000)"
         stroke="none"
