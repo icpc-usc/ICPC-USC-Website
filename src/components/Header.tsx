@@ -74,11 +74,10 @@ export function Header({ onTrainingLevelSelect }: HeaderProps) {
             navigate('/');
           }}>
             <div className="flex items-center justify-center w-10 sm:w-12">
-            <IcpcUscIcon className='fill-blue-500 dark:fill-white' />
+            <IcpcUscIcon className='text-blue-800 dark:text-white' />
             </div>
             <div className="hidden sm:block">
-              <h1 className="text-lg sm:text-xl font-bold text-gray-900 dark:text-white">ICPC USC</h1>
-              <p className="text-xs text-gray-600 dark:text-gray-400">Competitive Programming</p>
+              <h1 className="text-lg sm:text-xl font-bold text-blue-800 dark:text-white">ICPC USC</h1>
             </div>
           </div>
 

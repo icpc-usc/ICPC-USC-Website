@@ -16,6 +16,7 @@ export default function IcpcUscIcon(props: React.SVGProps<SVGSVGElement>) {
       <g
         transform="translate(0.000000,900.000000) scale(0.100000,-0.100000)"
         stroke="none"
+        fill="currentColor"
       >
         <path
           d="M7439 7381 c-287 -67 -497 -228 -638 -493 -23 -42 -47 -105 -55 -140

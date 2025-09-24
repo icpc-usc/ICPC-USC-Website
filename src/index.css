@@ -4,10 +4,10 @@
 
 /* Base styles for light and dark modes */
 @layer base {
-  html {
+  /* html {
     scroll-behavior: smooth;
   }
-  
+   */
   body {
     line-height: 1.6;
     transition: background-color 0.3s ease, color 0.3s ease;
@@ -210,9 +210,9 @@ body {
 
 /* Enhanced theme transitions */
 * {
-  transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
+  /* transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, transform;
   transition-duration: 200ms;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); */
 }
 
 /* Enhanced button styles for better light mode visibility */
