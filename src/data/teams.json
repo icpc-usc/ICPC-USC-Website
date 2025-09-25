@@ -201,7 +201,7 @@
         },
         {
           "name": "Mohamed Ahmed",
-          "avatar": "https://userpic.codeforces.org/4313041/avatar/9bdd5505e9afdebd.jpg",
+          "avatar": "https://userpic.codeforces.org/4313041/avatar/4d6657ff654fa45.jpg",
           "handle": "Mo_7aMed_A7med",
           "linkedin": "mohamedahmedelfar",
           "github": "",
@@ -274,13 +274,13 @@
         },
         {
           "name": "Yousef Sedhom",
-          "avatar": "https://userpic.codeforces.org/3606811/avatar/fa43bfcb0104e21b.jpg",
+          "avatar": "https://userpic.codeforces.org/3606811/avatar/5248e12e1d580079.jpg",
           "handle": "yse",
           "linkedin": "yousefff",
           "github": "",
           "facebook": "",
           "email": "",
-          "maxRating": 1768,
+          "maxRating": 1821,
           "roles": [
             "Level 2 Coach"
           ],
@@ -298,7 +298,7 @@
           "github": "",
           "facebook": "",
           "email": "massem539@gmail.com",
-          "maxRating": 1806,
+          "maxRating": 1967,
           "roles": [
             "Level 0 Coach",
             "Level 1 Coach",
@@ -309,7 +309,7 @@
         },
         {
           "name": "Hossam Saber Sayed",
-          "avatar": "https://userpic.codeforces.org/3938057/avatar/80b801ae4f9dfa6.jpg",
+          "avatar": "https://userpic.codeforces.org/3938057/avatar/29ed2ec7f6d18010.jpg",
           "handle": "Homz",
           "linkedin": "hossam-saberr",
           "github": "",
@@ -396,6 +396,63 @@
           "abouts": [
             "ECPC 2025 Finalist",
             "CS student at USC"
+          ],
+          "season": "2024-2025"
+        },
+        {
+          "name": "Momen Yousef",
+          "avatar": "https://userpic.codeforces.org/3813911/avatar/8a8db64b8279015a.jpg",
+          "handle": "Ropraite",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "ropraite@gmail.com",
+          "maxRating": 1552,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach",
+            "Level 2 Coach"
+          ],
+          "abouts": [
+            "CS student at FCI-Menofia"
+          ],
+          "season": "2024-2025"
+        },
+        {
+          "name": "Ahmed Adeeb",
+          "avatar": "https://userpic.codeforces.org/2874061/avatar/5e1d336df91d8f06.jpg",
+          "handle": "Syrianooo",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "",
+          "maxRating": 1222,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [
+            "ECPC 2025 Finalist",
+            "CS student at FCI-USC"
+          ],
+          "season": "2024-2025"
+        },
+        {
+          "name": "Ahmed Salah",
+          "avatar": "https://userpic.codeforces.org/2873862/avatar/d38e458050f8f75f.jpg",
+          "handle": "fakhrvic",
+          "linkedin": "",
+          "github": "",
+          "facebook": "",
+          "email": "",
+          "maxRating": 1009,
+          "roles": [
+            "Level 0 Coach",
+            "Level 1 Coach"
+          ],
+          "abouts": [
+            "ECPC 2025 Finalist",
+            "CS student at FCI-USC"
           ],
           "season": "2024-2025"
         }
