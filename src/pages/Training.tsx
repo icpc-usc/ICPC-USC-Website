@@ -21,8 +21,8 @@ export function Training({ onLevelSelect, onWaveSelect }: TrainingProps) {
   
   // Calculate current week as max of all levels' current weeks in current wave
   const calculateCurrentWeek = () => {
-    if (!currentWave || !currentWave.levels.length) return 1;
-    return Math.max(...currentWave.levels.map(level => level.currentWeek || 1));
+    if (!currentWave || !currentWave.levels.length) return 0;
+    return Math.max(...currentWave.levels.map(level => level.currentWeek || 0));
   };
   
   // Dynamic calculations

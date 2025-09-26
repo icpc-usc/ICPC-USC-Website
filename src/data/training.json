@@ -2,7 +2,7 @@
   "seasons": [
     {
       "season": "Season 5",
-      "year": "2025-2026",
+      "year": "2026",
       "description": "Current season focusing on advanced algorithms and contest preparation",
       "currentWave": 1,
       "isActive": true,
@@ -19,19 +19,117 @@
             {
               "level": "level 0",
               "description": "Introduction to competitive programming fundamentals",
+              "currentWeek": 0,
               "weeks": [
+                {
+                  "week": 0,
+                  "topic": "Introduction to competitive programming"
+                },
+                {
+                  "week": 1,
+                  "topic": "Data types and Conditions"
+                },
+                {
+                  "week": 2,
+                  "topic": "Loops"
+                }, 
+                {
+                  "week": 3,
+                  "topic": "Arrays"
+                }, 
+                {
+                  "week": 4,
+                  "topic": "Strings"
+                }, 
+                {
+                  "week": 5,
+                  "topic": "Time Complexity & Functions & Struct"
+                }, 
+                {
+                  "week": 6,
+                  "topic": "Frequency Array & 1D Prefix Sum & Partial Sum"
+                }, 
+                {
+                  "week": 7,
+                  "topic": "Intro to Math and Geometry"
+                },
+                {
+                  "week": 8,
+                  "topic": "Recursion"
+                }
               ]
             },
             {
               "level": "level 1",
               "description": "Basic algorithms and data structures",
+              "currentWeek": 0,
               "weeks": [
+                {
+                  "week": 1,
+                  "topic": "STLs 1"
+                },
+                {
+                  "week": 2,
+                  "topic": "STLs 2"
+                },
+                {
+                  "week": 3,
+                  "topic": "Static Range Queries"
+                },
+                {
+                  "week": 4,
+                  "topic": "Two Pointers & Sliding Window"
+                },
+                {
+                  "week": 5,
+                  "topic": "Binary Search"
+                },
+                {
+                  "week": 6,
+                  "topic": "Number theory 1 #1"
+                },
+                {
+                  "week": 7,
+                  "topic": "Number theory 1 #2"
+                },
+                {
+                  "week": 8,
+                  "topic": "Bitmask"
+                }
               ]
             },
             {
               "level": "level 2",
               "description": "Advanced algorithms and data structures",
               "weeks": [
+                {
+                  "week": 1,
+                  "topic": "Recursion and Backtracking"
+                },
+                {
+                  "week": 2,
+                  "topic": "Graph Theory"
+                },
+                {
+                  "week": 3,
+                  "topic": "DFS"
+                },
+                {
+                  "week": 4,
+                  "topic": "BFS"
+                },
+                {
+                  "week": 5,
+                  "topic": "DB"
+                },
+                {
+                  "week": 6,
+                  "topic": "DSU and MST"
+                },
+                {
+                  "week": 7,
+                  "topic": "Number theory 2"
+                }
               ]
             }
           ]

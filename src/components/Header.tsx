@@ -30,6 +30,7 @@ export function Header({
   const navigate = useNavigate();
   const location = useLocation();
   const { logo } = homeData.hero;
+  const currentSeason = homeData.currentSeason;
 
   const navigation = [
     { name: "Home", path: "/" },
@@ -42,9 +43,9 @@ export function Header({
   ];
 
   const currentSeasonLevels = [
-    { name: "Level 0 - Newcomers", level: "newcomers" },
-    { name: "Level 1 - Beginner", level: "beginner" },
-    { name: "Level 2 - Intermediate", level: "intermediate" },
+    { name: "Level 0", level: "level 0" },
+    { name: "Level 1", level: "level 1" },
+    { name: "Level 2", level: "level 2" },
   ];
 
   const handleTrainingClick = (e: React.MouseEvent) => {
@@ -56,9 +57,9 @@ export function Header({
   };
 
   const handleLevelSelect = (level: string) => {
-    onTrainingLevelSelect("2024-2025", level);
+    onTrainingLevelSelect(currentSeason, level);
     window.scrollTo({ top: 0, behavior: "smooth" });
-    navigate(`/training/level/2024-2025/${level}`);
+    navigate(`/training/level/${currentSeason}/${level}`);
     setIsTrainingDropdownOpen(false);
     setIsMenuOpen(false);
   };
